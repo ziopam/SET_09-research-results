@@ -1,1 +1,5 @@
-# SET_09-research-results
+# Графики по времени
+![time-compare](Images/image.png)
+
+# Графики по количеству сравнений
+![comparision-compare](Images/image2.png)
